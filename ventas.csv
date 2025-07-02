@@ -1,0 +1,7 @@
+ID_Venta,ID_Producto,Producto,Categoria,Precio,Cantidad,Fecha
+101,PROD_001,Laptop,Electronica,1200.50,1,2023-10-25
+102,PROD_002,Mouse,Electronica,25.00,2,2023-10-25
+103,PROD_003,Teclado,Electronica,75.75,1,2023-10-26
+104,PROD_004,Libro A,Libros,15.99,3,2023-10-26
+105,PROD_001,Laptop,Electronica,1200.50,1,2023-10-27
+106,PROD_005,Taza,Hogar,8.50,5,2023-10-27
